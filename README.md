@@ -6,3 +6,5 @@
 &nbsp;
 ![stars](https://img.shields.io/github/stars/Devsgeeknerd/pro-por-v1?style=plastic&label=Estrelas&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
+![forks](https://img.shields.io/github/forks/Devsgeeknerd/pro-por-v1?style=plastic&label=Bifurcações&labelColor=f9e64f "Total de Bifurcações")
+&nbsp;
