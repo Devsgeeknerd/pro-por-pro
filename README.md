@@ -4,3 +4,5 @@
 &nbsp;
 ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-por-v1?style=plastic&label=Observadores&labelColor=f9e64f "Total de Observadores")
 &nbsp;
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/pro-por-v1?style=plastic&label=Estrelas&labelColor=f9e64f "Total de Estrelas Recebidas")
+&nbsp;
