@@ -7,7 +7,7 @@ Projeto desenvolvido para testar o conhecimento adquirido durante os cursos.
 ## Tabela de Conteúdos
 
 * [Vista por cima](#vista-por-cima)
-* [Foto da tela]()
+* [Foto da tela](#foto-da-tela)
 * []()
 * []()
 * []()
