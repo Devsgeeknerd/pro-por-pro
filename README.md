@@ -2,3 +2,5 @@
 &nbsp;
 ![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=Fãs&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-por-v1?style=plastic&label=Observadores&labelColor=f9e64f "Total de Observadores")
+&nbsp;
