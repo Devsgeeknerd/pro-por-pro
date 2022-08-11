@@ -13,7 +13,7 @@ Projeto desenvolvido para testar o conhecimento adquirido durante os cursos.
 * [Construido com](#construido-com)
 * [O que aprendi](#o-que-aprendi)
 * [Desenvolvimento continuo](#desenvolvimento-continuo)
-* [Recursos uteis]()
+* [Recursos uteis](#recursos-uteis)
 * []()
 * []()
 * []()
