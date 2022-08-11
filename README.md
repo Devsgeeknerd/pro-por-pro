@@ -14,7 +14,7 @@ Projeto desenvolvido para testar o conhecimento adquirido durante os cursos.
 * [O que aprendi](#o-que-aprendi)
 * [Desenvolvimento continuo](#desenvolvimento-continuo)
 * [Recursos uteis](#recursos-uteis)
-* [Autores]()
+* [Autores](#autores)
 * []()
 * []()
 
