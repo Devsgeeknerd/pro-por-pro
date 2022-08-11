@@ -26,6 +26,7 @@ Projeto desenvolvido para testar o conhecimento adquirido durante os cursos.
 
 <!-- Links -->
 <!-- ### Links -->
+
 <!-- My Process -->
 ## Meu Processo
 
@@ -33,7 +34,7 @@ Projeto desenvolvido para testar o conhecimento adquirido durante os cursos.
 ### Construido com
 
 <!-- What I Learned -->
-### O que Aprendi
+<!-- ### O que Aprendi -->
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-por-v1&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
