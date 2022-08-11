@@ -15,7 +15,7 @@ Projeto desenvolvido para testar o conhecimento adquirido durante os cursos.
   * [Desenvolvimento continuo](#desenvolvimento-continuo)
   * [Recursos uteis](#recursos-uteis)
 * [Autores](#autores)
-* [Agradecimentos](#agradecimentos)
+<!-- * [Agradecimentos](#agradecimentos) -->
 * [Informações](#informações)
 
 <!-- Overview -->
