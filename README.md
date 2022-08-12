@@ -1,7 +1,7 @@
 <!-- Title -->
 # Portfolio
 
-Projeto desenvolvido para testar o conhecimento adquirido durante os cursos.
+Projeto desenvolvido para testar o conhecimento adquirido durante os cursos. Recursos utilizados com finalidade de aprendizado e estudo.
 
 <!-- Table of Contents -->
 ## Tabela de Conteúdos
