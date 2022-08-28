@@ -18,6 +18,7 @@ body {
 .img {
   max-width: 100%;
   -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
 }
 
 /********* FONTS *********/
