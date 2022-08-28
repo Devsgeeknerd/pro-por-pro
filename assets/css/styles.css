@@ -30,6 +30,7 @@ a, .button {
 
 a:focus, .button:focus, button:focus {
   text-decoration: none;
+  outline: none;
 }
 
 /********* FONTS *********/
