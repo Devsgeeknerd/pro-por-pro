@@ -15,7 +15,9 @@ body {
   border-radius: 50%;
 }
 
-.img {}
+.img {
+  max-width: 100%;
+}
 
 /********* FONTS *********/
 /********* FONTS *********/
