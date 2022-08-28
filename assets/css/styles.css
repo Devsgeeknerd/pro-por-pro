@@ -21,7 +21,9 @@ body {
   transition: 0.3s;
 }
 
-a, .button {}
+a, .button {
+  -webkit-transition: 0.3s;
+}
 
 /********* FONTS *********/
 /********* FONTS *********/
