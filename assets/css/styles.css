@@ -2,24 +2,22 @@
 @import url("https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i,800,800i,900&display=swap");
 
 body {
-/*Typography stuff*/
   font-family: "Muli", sans-serif;
   font-style: normal;
   font-weight: normal;
 }
 
 .profile_photo {
-/*Box model stuff*/
-  max-width: auto;
-  height: 100%;
   border-radius: 50%;
+  height: 100%;
+  max-width: auto;
 }
 
 .img {
-  max-width: 100%;
-  -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  max-width: 100%;
   transition: 0.3s;
 }
 
