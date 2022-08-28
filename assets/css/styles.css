@@ -8,7 +8,9 @@ body {
   font-weight: normal;
 }
 
-.profile_photo {}
+.profile_photo {
+  height: 100%;
+}
 
 /********* FONTS *********/
 /********* FONTS *********/
