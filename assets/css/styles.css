@@ -33,6 +33,8 @@ a:focus, .button:focus, button:focus {
   text-decoration: none;
 }
 
+a:focus {}
+
 /********* FONTS *********/
 /********* FONTS *********/
 /********* FONTS *********/
