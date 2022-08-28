@@ -10,6 +10,7 @@ body {
 
 .profile_photo {
   height: 100%;
+  max-width: auto;
 }
 
 /********* FONTS *********/
