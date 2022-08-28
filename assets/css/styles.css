@@ -9,8 +9,9 @@ body {
 }
 
 .profile_photo {
-  height: 100%;
+/*Box model stuff*/
   max-width: auto;
+  height: 100%;
   border-radius: 50%;
 }
 
