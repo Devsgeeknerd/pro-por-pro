@@ -28,7 +28,7 @@ a, .button {
   transition: 0.3s;
 }
 
-a:focus, .button:focus {}
+a:focus, .button:focus, button:focus {}
 
 /********* FONTS *********/
 /********* FONTS *********/
