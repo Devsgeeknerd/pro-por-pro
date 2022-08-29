@@ -87,14 +87,14 @@ label {
 
 ::-moz-selection {
   background: #444444;
-  color: #ffffff;
   box-shadow: none;
+  color: #ffffff;
 }
 
 ::selection {
   background: #444444;
-  color: #ffffff;
   box-shadow: none;
+  color: #ffffff;
 }
 
 /********* FONTS *********/
