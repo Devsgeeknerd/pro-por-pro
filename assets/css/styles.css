@@ -79,6 +79,12 @@ label {
   font-weight: 400;
 }
 
+*::-moz-selection {
+  background: #444444;
+  color: #ffffff;
+  text-shadow: none;
+}
+
 /********* FONTS *********/
 /********* FONTS *********/
 /********* FONTS *********/
