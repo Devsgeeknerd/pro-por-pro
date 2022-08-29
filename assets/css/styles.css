@@ -158,6 +158,18 @@ h3 {
   z-index: 0;
 }
 
+.overlay::before {
+  background-color: #1f1f1f;
+  content: "";
+  height: 100%;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  z-index: -1;
+}
+
 /********* FONTS *********/
 /********* FONTS *********/
 /********* FONTS *********/
