@@ -142,11 +142,15 @@ h3 {
 }
 
 .bg-img-1 {
-  background-image: url("assets/images/slider-img-1.png");
+  background-image: url("assets/images/slider-img-1.jpg");
 }
 
 .bg-img-2 {
-  background-image: url("assets/images/bg-img-2.png");
+  background-image: url("assets/images/bg-img-2.jpg");
+}
+
+.cta-bg-1 {
+  background-image: url("assets/images/bg-img-3.jpg");
 }
 
 /********* FONTS *********/
