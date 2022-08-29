@@ -103,6 +103,12 @@ label {
   opacity: 1;
 }
 
+*:-ms-input-placeholder {
+  color: #cccccc;
+  font-size: 14px;
+  opacity: 1;
+}
+
 /********* FONTS *********/
 /********* FONTS *********/
 /********* FONTS *********/
