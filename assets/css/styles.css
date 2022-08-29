@@ -60,6 +60,10 @@ ul {
   padding: 0rem;
 }
 
+li {
+  list-style: none;
+}
+
 /********* FONTS *********/
 /********* FONTS *********/
 /********* FONTS *********/
