@@ -170,6 +170,11 @@ h3 {
   z-index: -1;
 }
 
+.overlay2 {
+  position: relative;
+  z-index: 0;
+}
+
 /********* FONTS *********/
 /********* FONTS *********/
 /********* FONTS *********/
