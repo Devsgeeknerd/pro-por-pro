@@ -65,11 +65,18 @@ li {
 }
 
 p {
+  font-family: "Muli", sans-serif;
   font-size: 16px;
   font-weight: 300;
   line-height: 28px;
   margin-bottom: 13px;
-  font-family: "Muli", sans-serif;
+}
+
+label {
+  color: #7e7e7e;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 400;
 }
 
 /********* FONTS *********/
