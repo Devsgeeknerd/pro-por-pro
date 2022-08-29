@@ -115,6 +115,12 @@ label {
   opacity: 1;
 }
 
+*::placeholder {
+  color: #cccccc;
+  font-size: 14px;
+  opacity: 1;
+}
+
 /********* FONTS *********/
 /********* FONTS *********/
 /********* FONTS *********/
