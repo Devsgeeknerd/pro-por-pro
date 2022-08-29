@@ -85,6 +85,12 @@ label {
   text-shadow: none;
 }
 
+::-moz-selection {
+  background: #444444;
+  color: #ffffff;
+  box-shadow: none;
+}
+
 /********* FONTS *********/
 /********* FONTS *********/
 /********* FONTS *********/
