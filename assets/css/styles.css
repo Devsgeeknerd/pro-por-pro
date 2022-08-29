@@ -91,6 +91,12 @@ label {
   box-shadow: none;
 }
 
+::selection {
+  background: #444444;
+  color: #ffffff;
+  box-shadow: none;
+}
+
 /********* FONTS *********/
 /********* FONTS *********/
 /********* FONTS *********/
