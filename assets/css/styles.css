@@ -41,6 +41,11 @@ a:focus, a:hover, .project-cat a:hover, .footer -menu li a:hover {
   text-decoration: none;
 }
 
+a, button {
+  color: #1f1f1f;
+  outline: medium none;
+}
+
 /********* FONTS *********/
 /********* FONTS *********/
 /********* FONTS *********/
