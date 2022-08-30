@@ -48,3 +48,11 @@ html {
   font-family: sans-serif;
   line-height: 1.25;
 }
+
+@-ms-viewport {
+  width: device-width;
+}
+
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display: block;
+}
