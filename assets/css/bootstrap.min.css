@@ -213,3 +213,7 @@ caption {
   padding-top: 0.75rem;
   text-align: left;
 }
+
+th {
+  text-align: inherit;
+}
