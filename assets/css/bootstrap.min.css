@@ -188,3 +188,7 @@ pre {
   margin-top: 0rem;
   overflow: auto;
 }
+
+figure {
+  margin: 0rem 0rem 1rem;
+}
