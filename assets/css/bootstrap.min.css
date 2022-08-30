@@ -181,3 +181,10 @@ code, kbd, pre, samp {
   font-family: monospace, monospace;
   font-size: 1rem;
 }
+
+pre {
+  -ms-overflow-style: scrollbar;
+  margin-bottom: 1rem;
+  margin-top: 0rem;
+  overflow: auto;
+}
