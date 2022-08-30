@@ -110,3 +110,7 @@ dl, ol, ul {
 ol ol, ol ul, ul ol, ul ul {
   margin-bottom: 0px;
 }
+
+dt {
+  font-weight: 700;
+}
