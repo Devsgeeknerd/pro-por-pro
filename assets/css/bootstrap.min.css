@@ -246,3 +246,7 @@ button, input {
 button, select {
   text-transform: none;
 }
+
+[type=reset], [type=submit], button, html[type=button] {
+  -webkit-appearance: button;
+}
