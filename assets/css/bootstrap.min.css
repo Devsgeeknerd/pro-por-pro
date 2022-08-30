@@ -137,9 +137,9 @@ small {
 }
 
 sub, sup {
-  position: relative;
   font-size: 75%;
   line-height: 0;
+  position: relative;
   vertical-align: baseline;
 }
 
@@ -149,4 +149,11 @@ sub {
 
 sup {
   top: -0.5em;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
 }
