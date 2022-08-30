@@ -123,3 +123,7 @@ dd {
 blockquote {
   margin: 0rem 0rem 1rem;
 }
+
+dfn {
+  font-style: italic;
+}
