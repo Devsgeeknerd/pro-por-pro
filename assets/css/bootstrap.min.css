@@ -71,3 +71,9 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
+
+hr {
+  box-sizing: content-box;
+  height: 0px;
+  overflow: visible;
+}
