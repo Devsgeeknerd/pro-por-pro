@@ -95,3 +95,9 @@ abbr[data-original-title], abbr[title] {
   text-decoration: underline dotted;
   text-decoration: underline;
 }
+
+address {
+  font-style: normal;
+  line-height: inherit;
+  margin-bottom: 1rem;
+}
