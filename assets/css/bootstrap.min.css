@@ -142,3 +142,7 @@ sub, sup {
   line-height: 0;
   vertical-align: baseline;
 }
+
+sub {
+  bottom: -0.25em;
+}
