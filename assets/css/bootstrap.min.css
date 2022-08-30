@@ -192,3 +192,8 @@ pre {
 figure {
   margin: 0rem 0rem 1rem;
 }
+
+img {
+  border-style: none;
+  vertical-align: middle;
+}
