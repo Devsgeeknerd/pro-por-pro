@@ -87,3 +87,11 @@ p {
   margin-bottom: 1rem;
   margin-top: 0rem;
 }
+
+abbr[data-original-title], abbr[title] {
+  -webkit-text-decoration: underline dotted;
+  border-bottom: 0px;
+  cursor: help;
+  text-decoration: underline dotted;
+  text-decoration: underline;
+}
