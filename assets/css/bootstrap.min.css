@@ -323,3 +323,7 @@ summary {
 template {
   display: none;
 }
+
+[hidden] {
+  display: none !important;
+}
