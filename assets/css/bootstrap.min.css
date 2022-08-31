@@ -397,3 +397,8 @@ template {
   font-size: 80%;
   font-weight: 400;
 }
+
+.mark, mark {
+  background-color: #fcf8e3;
+  padding: 0.2rem;
+}
