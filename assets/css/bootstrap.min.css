@@ -494,3 +494,9 @@ pre {
   display: block;
   font-size: 87.5%;
 }
+
+pre code {
+  color: inherit;
+  font-size: inherit;
+  word-break: normal;
+}
