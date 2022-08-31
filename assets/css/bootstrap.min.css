@@ -482,3 +482,9 @@ kbd {
   font-size: 87.5%;
   padding: 0.2rem 0.4rem;
 }
+
+kbd code {
+  font-size: 100%;
+  font-weight: 700;
+  padding: 0;
+}
