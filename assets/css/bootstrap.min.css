@@ -470,3 +470,7 @@ code {
   font-size: 87.5%;
   word-break: break-word;
 }
+
+a>code {
+  color: inherit;
+}
