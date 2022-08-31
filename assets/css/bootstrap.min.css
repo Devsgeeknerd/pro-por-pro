@@ -464,3 +464,9 @@ template {
   color: #6c757d;
   font-size: 90%;
 }
+
+code {
+  color: #e83e8c;
+  font-size: 87.5%;
+  word-break: break-word;
+}
