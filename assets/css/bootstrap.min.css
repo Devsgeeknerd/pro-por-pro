@@ -310,3 +310,7 @@ progress {
   -webkit-appearance: button;
   font: inherit;
 }
+
+output {
+  display: inline-block;
+}
