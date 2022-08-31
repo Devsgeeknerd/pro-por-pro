@@ -430,3 +430,9 @@ template {
   font-size: 1.25rem;
   margin-bottom: 1rem;
 }
+
+.blockquote-footer {
+  color: #6c757d;
+  display: block;
+  font-size: 80%;
+}
