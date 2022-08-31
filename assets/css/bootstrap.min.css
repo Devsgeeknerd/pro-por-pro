@@ -459,3 +459,8 @@ template {
   line-height: 1;
   margin-bottom: .5rem;
 }
+
+.figure-caption {
+  color: #6c757d;
+  font-size: 90%;
+}
