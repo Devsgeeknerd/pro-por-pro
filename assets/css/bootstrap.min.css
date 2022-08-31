@@ -436,3 +436,8 @@ template {
   display: block;
   font-size: 80%;
 }
+
+.img-fluid {
+  height: auto;
+  max-width: 100%;
+}
