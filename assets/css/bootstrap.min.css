@@ -454,3 +454,8 @@ template {
 .figure {
   display: inline-block;
 }
+
+.figure-img {
+  line-height: 1;
+  margin-bottom: .5rem;
+}
