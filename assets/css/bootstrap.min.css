@@ -288,3 +288,7 @@ legend {
   white-space: normal;
   width: 100%;
 }
+
+progress {
+  vertical-align: baseline;
+}
