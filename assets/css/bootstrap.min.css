@@ -474,3 +474,11 @@ code {
 a>code {
   color: inherit;
 }
+
+kbd {
+  background-color: #212529;
+  border-radius: 0.2rem;
+  color: #fff;
+  font-size: 87.5%;
+  padding: 0.2rem 0.4rem;
+}
