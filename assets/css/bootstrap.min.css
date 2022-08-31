@@ -402,3 +402,8 @@ template {
   background-color: #fcf8e3;
   padding: 0.2rem;
 }
+
+.list-unstyled {
+  list-style: none;
+  padding-left: 0px;
+}
