@@ -269,3 +269,10 @@ textarea {
   overflow: auto;
   resize: vertical;
 }
+
+fieldset {
+  border: 0px;
+  margin: 0px;
+  min-width: 0px;
+  padding: 0px;
+}
