@@ -376,3 +376,9 @@ template {
   font-weight: 300;
   line-height: 1.2;
 }
+
+.display-3 {
+  font-size: 4.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
