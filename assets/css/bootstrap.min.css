@@ -73,8 +73,12 @@ body {
 }
 
 hr {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border: 0px;
   box-sizing: content-box;
   height: 0px;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
   overflow: visible;
 }
 
