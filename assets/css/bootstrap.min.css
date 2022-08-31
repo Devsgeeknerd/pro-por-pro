@@ -319,3 +319,7 @@ summary {
   cursor: pointer;
   display: list-item;
 }
+
+template {
+  display: none;
+}
