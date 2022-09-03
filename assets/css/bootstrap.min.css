@@ -789,3 +789,10 @@ pre code {
   flex: 0 0 75%;
   max-width: 75%;
 }
+
+.col-10 {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 83.333333%;
+  flex: 0 0 83.333333%;
+  max-width: 83.333333%;
+}
