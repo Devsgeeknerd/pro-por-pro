@@ -768,3 +768,10 @@ pre code {
   flex: 0 0 50%;
   max-width: 50%
 }
+
+.col-7 {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 58.333333%;
+  flex: 0 0 58.333333%;
+  max-width: 58.333333%;
+}
