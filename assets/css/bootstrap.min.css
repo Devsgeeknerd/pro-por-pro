@@ -656,3 +656,10 @@ pre code {
   width: auto;
   max-width: none;
 }
+
+.col-1 {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 8.333333%;
+  flex: 0 0 8.333333%;
+  max-width: 8.333333%;
+}
