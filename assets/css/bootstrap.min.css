@@ -627,8 +627,7 @@ pre code {
   margin-left: 0px;
 }
 
-.no-gutters>.col,
-.no-gutters>[class*=col-] {
+.no-gutters>.col, .no-gutters>[class*=col-] {
     padding-right: 0px;
     padding-left: 0px;
 }
