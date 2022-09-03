@@ -500,3 +500,8 @@ pre code {
   font-size: inherit;
   word-break: normal;
 }
+
+.pre-scrollable {
+  max-height: 340px;
+  overflow-y: scroll
+}
