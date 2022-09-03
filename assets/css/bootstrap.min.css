@@ -621,3 +621,14 @@ pre code {
   margin-right: -15px;
   margin-left: -15px;
 }
+
+.no-gutters {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.no-gutters>.col,
+.no-gutters>[class*=col-] {
+    padding-right: 0px;
+    padding-left: 0px;
+}
