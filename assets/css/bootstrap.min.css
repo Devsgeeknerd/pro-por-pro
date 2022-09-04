@@ -1814,3 +1814,7 @@ pre code {
 .table-primary > th {
   background-color: #b8daff;
 }
+
+.table-hover .table-primary:hover {
+  background-color: #9fcdff;
+}
