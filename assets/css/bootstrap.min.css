@@ -1790,3 +1790,8 @@ pre code {
 .table-bordered {
   border: 1px solid #dee2e6;
 }
+
+.table-bordered td,
+.table-bordered th {
+  border: 1px solid #dee2e6;
+}
