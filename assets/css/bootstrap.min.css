@@ -1781,3 +1781,8 @@ pre code {
 .table .table {
   background-color: #ffffff;
 }
+
+.table-sm td,
+.table-sm th {
+  padding: 0.3rem;
+}
