@@ -1754,3 +1754,10 @@ pre code {
     margin-left: 91.666667%;
   }
 }
+
+.table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+}
