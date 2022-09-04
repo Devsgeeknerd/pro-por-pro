@@ -1808,3 +1808,9 @@ pre code {
 .table-hover tbody tr:hover {
   background-color: rgba(0, 0, 0, 0.075);
 }
+
+.table-primary,
+.table-primary > td,
+.table-primary > th {
+  background-color: #b8daff;
+}
