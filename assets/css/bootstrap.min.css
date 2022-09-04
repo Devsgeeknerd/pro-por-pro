@@ -1800,3 +1800,7 @@ pre code {
 .table-bordered thead th {
   border-bottom-width: 2px;
 }
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.05);
+}
