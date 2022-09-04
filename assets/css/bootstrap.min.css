@@ -1795,3 +1795,8 @@ pre code {
 .table-bordered th {
   border: 1px solid #dee2e6;
 }
+
+.table-bordered thead td,
+.table-bordered thead th {
+  border-bottom-width: 2px;
+}
