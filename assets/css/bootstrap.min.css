@@ -900,3 +900,7 @@ pre code {
   -ms-flex-order: 12;
   order: 12;
 }
+
+.offset-1 {
+  margin-left: 8.333333%;
+}
