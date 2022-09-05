@@ -9,3 +9,8 @@ html {
 /********* IDS *********/
 
 /********* CLASSES *********/
+.profile_photo {
+  height: 100%;
+  max-width: auto;
+  border-radius: 50%;
+}
