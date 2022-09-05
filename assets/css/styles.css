@@ -20,3 +20,10 @@ h1 {
   max-width: auto;
   border-radius: 50%;
 }
+
+.card-img-top {
+  height: 225px;
+  width: 100%;
+  max-width: 100%;
+  display: block;
+}
