@@ -4075,3 +4075,8 @@ tbody.collapse.show {
   margin-bottom: 0px;
   list-style: none;
 }
+
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+}
