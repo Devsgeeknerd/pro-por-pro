@@ -2001,7 +2001,7 @@ pre code {
     -ms-overflow-style: -ms-autohiding-scrollbar;
   }
   .table-responsive-md > .table-bordered {
-    border: 0;
+    border: 0px;
   }
 }
 
@@ -2014,7 +2014,7 @@ pre code {
     -ms-overflow-style: -ms-autohiding-scrollbar;
   }
   .table-responsive-lg > .table-bordered {
-    border: 0;
+    border: 0px;
   }
 }
 
@@ -2027,7 +2027,7 @@ pre code {
     -ms-overflow-style: -ms-autohiding-scrollbar;
   }
   .table-responsive-xl > .table-bordered {
-    border: 0;
+    border: 0px;
   }
 }
 
@@ -2037,4 +2037,8 @@ pre code {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+
+.table-responsive > .table-bordered {
+  border: 0px;
 }
