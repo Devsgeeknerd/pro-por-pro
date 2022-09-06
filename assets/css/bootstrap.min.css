@@ -4924,6 +4924,7 @@ tbody.collapse.show {
   .card-columns .card {
     display: inline-block;
     width: 100%;
+    margin-bottom: 0.75rem;
   }
 }
 
@@ -4960,6 +4961,11 @@ breadcrumb {
   color: #6c757d;
 }
 
-.card-columns .card {
-  margin-bottom: 0.75rem;
+.pagination {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-left: 0px;
+  list-style: none;
+  border-radius: 0.25rem;
 }
