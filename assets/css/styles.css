@@ -27,9 +27,21 @@ h1 {
   border-radius: 50%;
 }
 
+.img {
+  max-width: 100%;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+
 .card-img-top {
   height: 225px;
   width: 100%;
   max-width: 100%;
   display: block;
 }
+
+/********* TAGS & IDS *********/
+
+/********* TAGS & CLASSES *********/
