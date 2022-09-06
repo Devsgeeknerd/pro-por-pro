@@ -63,3 +63,10 @@ button:focus {
 a:focus {
   text-decoration: none;
 }
+
+a:focus,
+a:hover,
+.portfolio-cat a:hover,
+.footer -menu li a:hover {
+  text-decoration: none;
+}
