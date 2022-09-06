@@ -5636,3 +5636,31 @@ breadcrumb {
   background-color: #1b1e21;
   border-color: #1b1e21;
 }
+
+.close {
+  float: right;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #000;
+  text-shadow: 0 1px 0 #fff;
+  opacity: 0.5;
+}
+
+.close:focus,
+.close:hover {
+  color: #000;
+  text-decoration: none;
+  opacity: 0.75;
+}
+
+.close:not(:disabled):not(.disabled) {
+  cursor: pointer;
+}
+
+button.close {
+  padding: 0;
+  background-color: transparent;
+  border: 0;
+  -webkit-appearance: none;
+}
