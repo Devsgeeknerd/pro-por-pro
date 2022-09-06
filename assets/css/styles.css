@@ -6,6 +6,12 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  font-family: "Muli", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
 h1 {
   font-family: "Muli", sans-serif;
   color: #ffffff;
