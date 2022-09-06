@@ -52,3 +52,10 @@ a,
   -o-transition: 0.3s;
   transition: 0.3s;
 }
+
+a:focus,
+.button:focus,
+button:focus {
+  text-decoration: none;
+  outline: none;
+}
