@@ -7560,3 +7560,15 @@ button.bg-dark:hover {
     align-self: stretch !important;
   }
 }
+
+.float-left {
+  float: left !important;
+}
+
+.float-right {
+  float: right !important;
+}
+
+.float-none {
+  float: none !important;
+}
