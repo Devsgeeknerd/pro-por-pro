@@ -117,8 +117,20 @@ label {
   display: block;
 }
 
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.mb-40 {
+  margin-bottom: 40px;
+}
+
+.mb-55 {
+  margin-bottom: 55px;
+}
+
 .mb-65 {
-  margin-bottom: 67px;
+  margin-bottom: 65px;
 }
 
 .black-bg {
