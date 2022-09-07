@@ -857,6 +857,18 @@ label {
   background: #000;
 }
 
+.header-area .main-header-area.sticky .main-menu {
+  padding: 0;
+}
+
+.header-area .main-header-area.sticky .header_bottom_border {
+  border-bottom: none;
+}
+
+.header-area .main-header-area.sticky .header_bottom_border.white_border {
+  border-bottom: none !important;
+
+
 @media (max-width: 767px) {
   .header-area {
     padding-top: 0px;
