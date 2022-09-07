@@ -695,6 +695,23 @@ label {
   text-align: center;
 }
 
+.header-area .main-header-area .appointment {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  -moz-align-items: center;
+  -ms-align-items: center;
+  align-items: center;
+  -webkit-justify-content: flex-end;
+  -moz-justify-content: flex-end;
+  -ms-justify-content: flex-end;
+  justify-content: flex-end;
+  -ms-flex-pack: flex-end;
+}
+
 @media (max-width: 767px) {
   .header-area {
     padding-top: 0px;
@@ -768,11 +785,17 @@ label {
   .header-area .main-header-area .logo-img {
     text-align: left;
   }
+  .header-area .main-header-area .appointment .search_button {
+    margin-right: 15px;
+  }
 }
 
 @media (min-width: 1200px) and (max-width: 1500px) {
   .header-area .main-header-area {
     padding: 25px 0px;
+  }
+  .header-area .main-header-area .appointment .search_button {
+    margin-right: 15px;
   }
 }
 
