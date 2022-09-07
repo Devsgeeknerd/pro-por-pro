@@ -51,6 +51,8 @@ a,
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+  color: #1f1f1f;
+  outline: medium none;
 }
 
 a:focus,
