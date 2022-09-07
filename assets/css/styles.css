@@ -125,6 +125,10 @@ label {
   margin-bottom: 40px;
 }
 
+.mb-50 {
+  margin-bottom: 50px;
+}
+
 .mb-55 {
   margin-bottom: 55px;
 }
@@ -379,7 +383,7 @@ label {
   width: 220px;
 }
 
-boxed-btn4 {
+.boxed-btn4 {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
   background: #615cfd;
   color: #fff;
@@ -598,6 +602,15 @@ boxed-btn4 {
 }
 
 @media (max-width: 767px) {
+  .mobile_menu {
+    position: absolute;
+    right: 0px;
+    width: 100%;
+    z-index: 9;
+  }
+  .mb-50 {
+    margin-bottom: 50px;
+  }
   .section_title h3 {
     font-size: 30px;
     line-height: 36px;
