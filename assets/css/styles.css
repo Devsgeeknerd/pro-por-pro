@@ -712,6 +712,28 @@ label {
   -ms-flex-pack: flex-end;
 }
 
+.header-area .main-header-area .appointment .search_button a i {
+  color: #e8e8e8;
+}
+
+.header-area .main-header-area .appointment .social_links ul li {
+  display: inline-block;
+}
+
+.header-area .main-header-area .appointment .social_links ul li a {
+  color: #a8a7a0;
+  margin: 0 10px;
+  font-size: 15px;
+}
+
+.header-area .main-header-area .appointment .social_links ul li a:hover {
+  color: #fff;
+}
+
+.header-area .main-header-area .appointment .book_btn {
+  margin-left: 30px;
+}
+
 @media (max-width: 767px) {
   .header-area {
     padding-top: 0px;
@@ -788,6 +810,9 @@ label {
   .header-area .main-header-area .appointment .search_button {
     margin-right: 15px;
   }
+  .header-area .main-header-area .Appointment .book_btn {
+    margin-left: 0px;
+  }
 }
 
 @media (min-width: 1200px) and (max-width: 1500px) {
@@ -796,6 +821,9 @@ label {
   }
   .header-area .main-header-area .appointment .search_button {
     margin-right: 15px;
+  }
+  .header-area .main-header-area .Appointment .book_btn {
+    margin-left: 0;
   }
 }
 
