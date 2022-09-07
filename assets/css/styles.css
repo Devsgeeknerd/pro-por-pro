@@ -2,6 +2,30 @@
 @import url("https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i,800,800i,900&display=swap");
 
 /********* TAGS HTML *********/
+*::-webkit-input-placeholder {
+  color: #cccccc;
+  font-size: 14px;
+  opacity: 1;
+}
+
+*::-ms-input-placeholder {
+  color: #cccccc;
+  font-size: 14px;
+  opacity: 1;
+}
+
+::selection {
+  background: #444444;
+  color: #ffffff;
+  text-shadow: none;
+}
+
+::-moz-selection {
+  background: #444444;
+  color: #ffffff;
+  text-shadow: none;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -50,6 +74,13 @@ p {
   color: #4d4d4d;
   margin-bottom: 13px;
   font-family: "Muli", sans-serif;
+}
+
+label {
+  color: #7e7e7e;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 400;
 }
 
 /********* IDS *********/
