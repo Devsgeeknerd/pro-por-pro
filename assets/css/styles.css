@@ -43,6 +43,15 @@ li {
   list-style: none;
 }
 
+p {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 28px;
+  color: #4d4d4d;
+  margin-bottom: 13px;
+  font-family: "Muli", sans-serif;
+}
+
 /********* IDS *********/
 
 /********* CLASSES *********/
