@@ -626,6 +626,51 @@ label {
   color: #5db2ff;
 }
 
+.slicknav_menu .slicknav_nav .slicknav_btn {
+  background-color: transparent;
+  cursor: pointer;
+  margin-bottom: 10px;
+  margin-top: -40px;
+  position: relative;
+  z-index: 99;
+  border: 1px solid #ddd;
+  top: 3px;
+  right: 5px;
+  top: -36px;
+}
+
+.slicknav_menu .slicknav_nav .slicknav_btn .slicknav_icon {
+  margin-right: 6px;
+  margin-top: 3px;
+  position: relative;
+  padding-bottom: 3px;
+  top: -11px;
+  right: -5px;
+}
+
+.slicknav_nav .slicknav_arrow {
+  float: right;
+  font-size: 22px;
+  position: relative;
+  top: -9px;
+}
+
+.slicknav_btn {
+  background-color: transparent;
+  cursor: pointer;
+  margin-bottom: 10px;
+  position: relative;
+  z-index: 99;
+  border: none;
+  border-radius: 3px;
+  top: 5px;
+  padding: 5px;
+  right: 0;
+  margin-top: -5px;
+  top: -29px;
+  right: 5px;
+}
+
 @media (max-width: 767px) {
   .mobile_menu {
     position: absolute;
@@ -646,12 +691,21 @@ label {
   .section_title p br {
     display: none;
   }
+  .slicknav_menu .slicknav_nav a i {
+    display: none;
+  }
+  .slicknav_menu {
+    margin-right: 0px;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   .section_title h3 {
     font-size: 36px;
     line-height: 42px;
+  }
+  .slicknav_menu .slicknav_nav a i {
+    display: none;
   }
 }
 
