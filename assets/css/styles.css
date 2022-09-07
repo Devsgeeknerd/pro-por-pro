@@ -14,6 +14,12 @@
   opacity: 1;
 }
 
+*::placeholder {
+  color: #cccccc;
+  font-size: 14px;
+  opacity: 1;
+}
+
 ::selection {
   background: #444444;
   color: #ffffff;
