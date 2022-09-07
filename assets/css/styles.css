@@ -734,6 +734,24 @@ label {
   margin-left: 30px;
 }
 
+.header-area .main-header-area .appointment .book_btn a {
+  background: #d465ef;
+  padding: 12px 26px;
+  font-size: 14px;
+  font-weight: 500;
+  border: 1px solid transparent;
+  color: #fff;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+.header-area .main-header-area .Appointment .book_btn a:hover {
+  background: #d465ef;
+  color: #fff;
+  border: 1px solid #d465ef;
+}
+
 @media (max-width: 767px) {
   .header-area {
     padding-top: 0px;
@@ -810,8 +828,11 @@ label {
   .header-area .main-header-area .appointment .search_button {
     margin-right: 15px;
   }
-  .header-area .main-header-area .Appointment .book_btn {
+  .header-area .main-header-area .appointment .book_btn {
     margin-left: 0px;
+  }
+  .header-area .main-header-area .appointment .book_btn a {
+    padding: 12px 20px;
   }
 }
 
@@ -822,8 +843,8 @@ label {
   .header-area .main-header-area .appointment .search_button {
     margin-right: 15px;
   }
-  .header-area .main-header-area .Appointment .book_btn {
-    margin-left: 0;
+  .header-area .main-header-area .appointment .book_btn {
+    margin-left: 0px;
   }
 }
 
