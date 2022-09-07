@@ -746,10 +746,35 @@ label {
   border-radius: 0px;
 }
 
-.header-area .main-header-area .Appointment .book_btn a:hover {
+.header-area .main-header-area .appointment .book_btn a:hover {
   background: #d465ef;
   color: #fff;
   border: 1px solid #d465ef;
+}
+
+.header-area .main-header-area .main-menu {
+  text-align: center;
+  padding: 12px 0px;
+}
+
+.header-area .main-header-area .main-menu ul li {
+  display: inline-block;
+  position: relative;
+  margin: 0px 10px;
+}
+
+.header-area .main-header-area .main-menu ul li a {
+  color: #fff;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 400;
+  display: inline-block;
+  padding: 0px 0px 0px 0px;
+  font-family: "Muli", sans-serif;
+  position: relative;
+}
+.header-area .main-header-area .main-menu ul li a i {
+  font-size: 9px;
 }
 
 @media (max-width: 767px) {
@@ -845,6 +870,9 @@ label {
   }
   .header-area .main-header-area .appointment .book_btn {
     margin-left: 0px;
+  }
+  .header-area .main-header-area .main-menu ul li a {
+    font-size: 15px;
   }
 }
 
