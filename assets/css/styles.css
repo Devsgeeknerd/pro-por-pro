@@ -534,6 +534,21 @@ boxed-btn2 {
   background: #009dff;
 }
 
+.line_btn {
+  display: inline-block;
+  font-size: 15px;
+  color: #615cfd;
+  border: 1px solid #615cfd;
+  text-transform: capitalize;
+  padding: 13px 34px;
+  font-weight: 600;
+}
+
+.line_btn:hover {
+  background: #615cfd;
+  color: #fff;
+}
+
 /********* TAGS & IDS *********/
 
 /********* TAGS & CLASSES *********/
