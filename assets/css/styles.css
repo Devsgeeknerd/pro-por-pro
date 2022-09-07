@@ -601,6 +601,31 @@ label {
   display: none;
 }
 
+.slicknav_menu .slicknav_nav {
+  background: #fff;
+  float: right;
+  margin-top: 0;
+  padding: 0;
+  width: 95%;
+  padding: 0;
+  border-radius: 0px;
+  margin-top: 5px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  top: 11px;
+}
+
+.slicknav_menu .slicknav_nav a:hover {
+  background: transparent;
+  color: #5db2ff;
+}
+
+.slicknav_menu .slicknav_nav a.active {
+  color: #5db2ff;
+}
+
 @media (max-width: 767px) {
   .mobile_menu {
     position: absolute;
