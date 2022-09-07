@@ -51,6 +51,14 @@ h5 {
   color: #001d38;
 }
 
+h1 {
+  font-size: 100%;
+}
+
+h3 {
+  font-size: 24px;
+}
+
 h1 a,
 h2 a,
 h3 a,
@@ -58,10 +66,6 @@ h4 a,
 h5 a,
 h6 a {
   color: inherit;
-}
-
-h1 {
-  font-size: 100%;
 }
 
 ul {
