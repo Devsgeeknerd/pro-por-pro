@@ -311,6 +311,211 @@ label {
   border: 1px solid transparent;
 }
 
+.boxed-btn {
+  background: #fff;
+  color: #131313;
+  display: inline-block;
+  padding: 18px 44px;
+  font-family: "Muli", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  border: 0;
+  border: 1px solid #615cfd;
+  letter-spacing: 3px;
+  text-align: center;
+  color: #615cfd !important;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.boxed-btn:hover {
+  background: #615cfd;
+  color: #fff !important;
+  border: 1px solid #615cfd;
+}
+
+.boxed-btn:focus {
+  outline: none;
+}
+
+.boxed-btn.large-width {
+  width: 220px;
+}
+
+.boxed-btn3 {
+  background: #615cfd;
+  color: #fff;
+  display: inline-block;
+  padding: 14px 38px;
+  font-family: "Muli", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  border: 0;
+  border: 1px solid transparent;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  text-align: center;
+  color: #fff !important;
+  text-transform: capitalize;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.boxed-btn3:hover {
+  border: 1px solid #615cfd;
+  color: #615cfd !important;
+  background: transparent;
+}
+
+.boxed-btn3:focus {
+  outline: none;
+}
+
+.boxed-btn3.large-width {
+  width: 220px;
+}
+
+boxed-btn4 {
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
+  background: #615cfd;
+  color: #fff;
+  display: inline-block;
+  padding: 14px 27px;
+  font-family: "Muli", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  border: 0;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  text-align: center;
+  color: #fff !important;
+  text-transform: capitalize;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  cursor: pointer;
+  letter-spacing: 2px;
+}
+
+.boxed-btn4:hover {
+  background: #615cfd;
+  color: #fff !important;
+}
+
+.boxed-btn4:focus {
+  outline: none;
+}
+
+.boxed-btn4.large-width {
+  width: 220px;
+}
+
+.boxed-btn3-white {
+  color: #fff;
+  display: inline-block;
+  padding: 13px 27px;
+  font-family: "Muli", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  border: 0;
+  border: 1px solid #fff;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  text-align: center;
+  color: #fff !important;
+  text-transform: capitalize;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  cursor: pointer;
+  letter-spacing: 2px;
+}
+
+.boxed-btn3-white:hover {
+  background: #28ae61;
+  color: #fff !important;
+  border: 1px solid transparent;
+}
+
+.boxed-btn3-white i {
+  margin-right: 2px;
+}
+
+.boxed-btn3-white:focus {
+  outline: none;
+}
+
+.boxed-btn3-white.large-width {
+  width: 220px;
+}
+
+.boxed-btn3-green-2 {
+  color: #615cfd !important;
+  display: inline-block;
+  padding: 14px 31px;
+  font-family: "Muli", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  border: 0;
+  border: 1px solid #615cfd;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  text-align: center;
+  text-transform: capitalize;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  cursor: pointer;
+  letter-spacing: 2px;
+}
+
+.boxed-btn3-green-2:hover {
+  background: #615cfd;
+  color: #fff !important;
+  border: 1px solid transparent;
+}
+
+.boxed-btn3-green-2:focus {
+  outline: none;
+}
+
+.boxed-btn3-green-2.large-width {
+  width: 220px;
+}
+
+boxed-btn2 {
+  background: transparent;
+  color: #fff;
+  display: inline-block;
+  padding: 18px 24px;
+  font-family: "Muli", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  border: 0;
+  border: 1px solid #fff;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.boxed-btn2:hover {
+  background: #fff;
+  color: #131313 !important;
+}
+
+.boxed-btn2:focus {
+  outline: none;
+}
+
 /********* TAGS & IDS *********/
 
 /********* TAGS & CLASSES *********/
