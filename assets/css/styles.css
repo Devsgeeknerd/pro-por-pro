@@ -117,6 +117,14 @@ label {
   display: block;
 }
 
+.mb-65 {
+  margin-bottom: 67px;
+}
+
+.black-bg {
+  background: #020c26 !important;
+}
+
 /********* TAGS & IDS *********/
 
 /********* TAGS & CLASSES *********/
