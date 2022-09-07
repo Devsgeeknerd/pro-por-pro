@@ -125,6 +125,14 @@ label {
   background: #020c26 !important;
 }
 
+.white-bg {
+  background: #ffffff;
+}
+
+.gray-bg {
+  background: #f5f5f5;
+}
+
 /********* TAGS & IDS *********/
 
 /********* TAGS & CLASSES *********/
