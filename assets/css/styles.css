@@ -932,7 +932,11 @@ label {
   .header-area .main-header-area .main-menu ul li a i {
     display: none !important;
   }
+  .header-area .main-header-area.sticky {
+    padding: 10px 0px;
+  }
 }
+
 @media (min-width: 992px) and (max-width: 1200px) {
   .header-area .main-header-area {
     padding: 25px 0px;
