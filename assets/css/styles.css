@@ -867,7 +867,12 @@ label {
 
 .header-area .main-header-area.sticky .header_bottom_border.white_border {
   border-bottom: none !important;
+}
 
+.header-area .header-top_area {
+  padding: 12px 0;
+  background: rgba(44, 44, 44, 0.5);
+}
 
 @media (max-width: 767px) {
   .header-area {
