@@ -493,7 +493,7 @@ boxed-btn4 {
   width: 220px;
 }
 
-boxed-btn2 {
+.boxed-btn2 {
   background: transparent;
   color: #fff;
   display: inline-block;
@@ -547,6 +547,38 @@ boxed-btn2 {
 .line_btn:hover {
   background: #615cfd;
   color: #fff;
+}
+
+.section_title span {
+  position: relative;
+  z-index: 3;
+  font-size: 13px;
+  font-weight: 300;
+  letter-spacing: 3px;
+  color: #001d38;
+  text-transform: uppercase;
+  display: block;
+  padding-top: 14px;
+}
+
+.section_title span:before {
+  position: absolute;
+  height: 60px;
+  width: 1px;
+  background: #614cfd;
+  content: "";
+  left: 50%;
+  bottom: 100%;
+}
+
+.section_title h3 {
+  font-size: 50px;
+  line-height: 62px;
+  font-weight: 700;
+  color: #001d38;
+  position: relative;
+  z-index: 0;
+  padding-bottom: 15px;
 }
 
 /********* TAGS & IDS *********/
