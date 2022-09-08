@@ -1117,6 +1117,20 @@ label {
   z-index: 1;
 }
 
+.features_area .features_info ul li::before {
+  position: absolute;
+  left: 0;
+  background-image: url(assets/images/check.svg);
+  width: 16px;
+  height: 16px;
+  content: "";
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
 .features_area .features_info2 h3 {
   font-size: 46px;
   line-height: 60px;
