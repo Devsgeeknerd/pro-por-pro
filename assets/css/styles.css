@@ -1250,6 +1250,9 @@ label {
   .features_area .features_info h3 br {
     display: none;
   }
+  .features_area .features_info ul {
+    margin-bottom: 30px;
+  }
   .features_area .features_info2 {
     margin-bottom: 30px;
   }
