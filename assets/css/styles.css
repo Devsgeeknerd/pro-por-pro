@@ -1067,6 +1067,50 @@ label {
   margin-right: 15px;
 }
 
+.features_area {
+  padding: 77px 0px 90px 0px;
+}
+
+.features_area .about_image img {
+  width: auto;
+}
+
+.features_area .about_draw img {
+  width: 100%;
+}
+
+.features_area .features_main_wrap {
+  padding: 90px 0;
+}
+
+.features_area .features_info {
+  padding-left: 68px;
+}
+
+.features_area .features_info h3 {
+  font-size: 46px;
+  line-height: 60px;
+  font-weight: 300;
+  color: #2c2c2c;
+}
+
+.features_area .features_info2 h3 {
+  font-size: 46px;
+  line-height: 60px;
+  font-weight: 300;
+  color: #2c2c2c;
+}
+
+.features_area .features_info2 p {
+  font-size: 16px;
+  line-height: 28px;
+  color: #727272;
+  margin-bottom: 22px;
+  line-height: 30px;
+  margin-top: 20px;
+  margin-bottom: 32px;
+}
+
 /********* MEDIA 767 *********/
 @media (max-width: 767px) {
   .header-area {
@@ -1172,6 +1216,35 @@ label {
   .slider_area .single_slider .slider_text .video_service_btn > a {
     margin-bottom: 20px;
   }
+  .features_area {
+    padding: 30px 0 40px 0;
+  }
+  .features_area .features_main_wrap {
+    padding: 30px 0;
+  }
+  .features_area .features_main_wrap .about_image img {
+    width: 100%;
+  }
+  .features_area .features_info {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .features_area .features_info h3 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .features_area .features_info h3 br {
+    display: none;
+  }
+  .features_area .features_info2 {
+    margin-bottom: 30px;
+  }
+  .features_area .features_info2 h3 {
+    font-size: 30px;
+    line-height: 40px;
+  }
 }
 
 /********* MEDIA 768 A 991 *********/
@@ -1228,6 +1301,25 @@ label {
   .slider_area .single_slider .slider_text h3 br {
     display: none;
   }
+  .features_area {
+    padding: 30px 0 40px 0;
+  }
+  .features_area .features_info {
+    padding-left: 30px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+  }
+  .features_area .features_info h3 {
+    font-size: 38px;
+    line-height: 50px;
+  }
+  .features_area .features_info h3 br {
+    display: none;
+  }
+  .features_area .features_info2 h3 {
+    font-size: 35px;
+    line-height: 45px;
+  }
 }
 
 /********* MEDIA 992 A 1200 *********/
@@ -1261,6 +1353,22 @@ label {
   .slider_area .single_slider .slider_text span {
     font-size: 16px;
   }
+  .features_area .features_info {
+    padding-left: 30px;
+    padding-top: 0;
+    padding-bottom: 40px;
+  }
+  .features_area .features_info h3 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .features_area .features_info2 h3 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .features_area .features_info2 p br {
+    display: none;
+  }
 }
 
 /********* MEDIA 1200 A 1500 *********/
@@ -1276,6 +1384,10 @@ label {
   }
   .header-area .main-header-area .main-menu ul li a {
     font-size: 15px;
+  }
+  .features_area .features_info {
+    padding-left: 30px;
+    padding-top: 0;
   }
 }
 
