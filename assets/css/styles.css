@@ -384,7 +384,6 @@ label {
 }
 
 .boxed-btn4 {
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
   background: #615cfd;
   color: #fff;
   display: inline-block;
@@ -874,6 +873,45 @@ label {
   background: rgba(44, 44, 44, 0.5);
 }
 
+.header-area .header-top_area .social_media_links a {
+  font-size: 15px;
+  color: #fff;
+  margin-right: 12px;
+}
+
+.header-area .header-top_area .social_media_links a:hover {
+  color: #28ae60;
+}
+
+.header-area .header-top_area .short_contact_list {
+  text-align: right;
+}
+
+.header-area .header-top_area .short_contact_list ul li {
+  display: inline-block;
+}
+
+.header-area .header-top_area .short_contact_list ul li a {
+  font-size: 13px;
+  color: #fff;
+  margin-left: 50px;
+}
+
+.header-area .header-top_area .short_contact_list ul li a i {
+  color: #28ae60;
+  margin-right: 7px;
+}
+
+.header_bottom_border {
+  border-bottom: 1px solid #4b4e50;
+  padding-bottom: 22px;
+}
+
+.header_bottom_border.white_border {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+/********* MEDIA 767 *********/
 @media (max-width: 767px) {
   .header-area {
     padding-top: 0px;
@@ -919,12 +957,34 @@ label {
   .header-area .main-header-area .main-menu ul li a i {
     display: none !important;
   }
-
   .header-area .main-header-area.sticky {
     padding: 10px 0px;
   }
+  .header-area .header-top_area .social_media_links {
+    text-align: center;
+  }
+  .header-area .header-top_area .short_contact_list {
+    text-align: center;
+  }
+  .header-area .header-top_area .short_contact_list ul li a {
+    margin-left: 0px;
+    margin: 0px 5px;
+  }
+  .header_bottom_border.white_border {
+    padding: 0px;
+    border-bottom: none;
+  }
+  .header_bottom_border.white_border {
+    padding: 0px;
+    border-bottom: none !important;
+  }
+  .header_bottom_border {
+    padding: 0px;
+    border-bottom: none;
+  }
 }
 
+/********* MEDIA 768 A 991 *********/
 @media (min-width: 768px) and (max-width: 991px) {
   .header-area {
     padding-top: 0px;
@@ -954,6 +1014,7 @@ label {
   }
 }
 
+/********* MEDIA 992 A 1200 *********/
 @media (min-width: 992px) and (max-width: 1200px) {
   .header-area .main-header-area {
     padding: 25px 0px;
@@ -972,6 +1033,7 @@ label {
   }
 }
 
+/********* MEDIA 1200 A 1500 *********/
 @media (min-width: 1200px) and (max-width: 1500px) {
   .header-area .main-header-area {
     padding: 25px 0px;
