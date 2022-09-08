@@ -1102,6 +1102,10 @@ label {
   margin-top: 28px;
 }
 
+.features_area .features_info ul {
+  margin-bottom: 56px;
+}
+
 .features_area .features_info2 h3 {
   font-size: 46px;
   line-height: 60px;
