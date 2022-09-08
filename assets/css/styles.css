@@ -1307,6 +1307,12 @@ label {
   .productivity_area {
     padding: 100px 0px;
   }
+  .productivity_area h3 {
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
 }
 
 /********* MEDIA 768 A 991 *********/
