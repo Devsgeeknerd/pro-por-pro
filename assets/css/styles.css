@@ -1131,6 +1131,10 @@ label {
   transform: translateY(-50%);
 }
 
+.features_area .features_info .boxed-btn3 {
+  padding: 13px 46px 14px 46px;
+}
+
 .features_area .features_info2 h3 {
   font-size: 46px;
   line-height: 60px;
