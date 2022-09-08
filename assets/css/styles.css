@@ -1167,6 +1167,10 @@ label {
   line-height: 60px;
 }
 
+.productivity_area .app_download {
+  text-align: right;
+}
+
 /********* MEDIA 767 *********/
 @media (max-width: 767px) {
   .header-area {
