@@ -1152,6 +1152,14 @@ label {
   margin-bottom: 32px;
 }
 
+.productivity_area {
+  background-image: url(assets/images/product.png);
+  background-size: cover;
+  background-position: center center;
+  padding: 164px 0;
+  background-repeat: no-repeat;
+}
+
 /********* MEDIA 767 *********/
 @media (max-width: 767px) {
   .header-area {
