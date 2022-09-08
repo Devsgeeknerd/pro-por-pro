@@ -1094,6 +1094,14 @@ label {
   color: #2c2c2c;
 }
 
+.features_area .features_info p {
+  font-size: 16px;
+  line-height: 28px;
+  color: #727272;
+  margin-bottom: 22px;
+  margin-top: 28px;
+}
+
 .features_area .features_info2 h3 {
   font-size: 46px;
   line-height: 60px;
