@@ -1009,6 +1009,15 @@ label {
   margin-bottom: 0px;
 }
 
+.slider_area .single_slider::before {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 724px;
+  height: 767px;
+  content: "";
+}
+
 .slider_area .single_slider::after {
   position: absolute;
   top: 0;
@@ -1020,13 +1029,42 @@ label {
   z-index: -2;
 }
 
-.slider_area .single_slider::before {
+.slider_area .single_slider .phone_thumb {
+  position: relative;
+  top: 110px;
+}
+
+.slider_area .single_slider .slider_text h3 {
+  color: #ffffff;
+  font-family: "Muli", sans-serif;
+  font-size: 80px;
+  text-transform: capitalize;
+  font-weight: 700;
+  line-height: 82px;
+  margin-bottom: 9px;
+}
+
+.slider_area .single_slider .slider_text span {
+  font-weight: 700;
+  font-size: 30px;
+  color: #ffffff;
+  position: relative;
+  z-index: 1;
+}
+
+.slider_area .single_slider .slider_text span::before {
   position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 724px;
-  height: 767px;
+  background: #fff;
+  width: 50px;
+  height: 2px;
   content: "";
+  left: -67px;
+  top: 50%;
+  margin-bottom: -1px;
+}
+
+.slider_area .single_slider .slider_text .video_service_btn > a {
+  margin-right: 15px;
 }
 
 /********* MEDIA 767 *********/
@@ -1109,6 +1147,31 @@ label {
     content: "";
     background-size: cover;
   }
+  .slider_area .single_slider::after {
+    display: none;
+  }
+  .slider_area .single_slider {
+    height: 500px;
+  }
+  .slider_area .single_slider .phone_thumb {
+    top: 60px;
+  }
+  .slider_area .single_slider .phone_thumb img {
+    width: 100%;
+  }
+  .slider_area .single_slider .slider_text h3 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+  .slider_area .single_slider .slider_text h3 br {
+    display: none;
+  }
+  .slider_area .single_slider .slider_text span {
+    font-size: 16px;
+  }
+  .slider_area .single_slider .slider_text .video_service_btn > a {
+    margin-bottom: 20px;
+  }
 }
 
 /********* MEDIA 768 A 991 *********/
@@ -1145,6 +1208,26 @@ label {
     content: "";
     background-size: cover;
   }
+  .slider_area .single_slider::after {
+    width: 320px;
+    height: 320px;
+    content: "";
+    z-index: -2;
+    background-size: cover;
+  }
+  .slider_area .single_slider {
+    height: 620px;
+  }
+  .slider_area .single_slider .phone_thumb img {
+    width: 100%;
+  }
+  .slider_area .single_slider .slider_text h3 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+  .slider_area .single_slider .slider_text h3 br {
+    display: none;
+  }
 }
 
 /********* MEDIA 992 A 1200 *********/
@@ -1163,6 +1246,20 @@ label {
   }
   .header-area .main-header-area .appointment .book_btn a {
     padding: 12px 20px;
+  }
+  .slider_area .single_slider .phone_thumb img {
+    width: 100%;
+  }
+  .slider_area .single_slider .slider_text h3 {
+    font-size: 45px;
+    letter-spacing: 3px;
+    line-height: 55px;
+  }
+  .slider_area .single_slider .slider_text h3 br {
+    display: none;
+  }
+  .slider_area .single_slider .slider_text span {
+    font-size: 16px;
   }
 }
 
