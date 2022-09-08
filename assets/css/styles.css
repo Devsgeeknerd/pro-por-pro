@@ -1373,6 +1373,9 @@ label {
   .features_area .features_info h3 br {
     display: none;
   }
+  .features_area .features_info p br {
+    display: none;
+  }
   .features_area .features_info2 h3 {
     font-size: 30px;
     line-height: 40px;
