@@ -1013,7 +1013,7 @@ label {
   position: absolute;
   top: 0;
   right: 0;
-  background-image: url(../img/about/cirlcle.png);
+  background-image: url(/assets/images/circle.png);
   width: 531px;
   height: 504px;
   content: "";
