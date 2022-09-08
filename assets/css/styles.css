@@ -1317,6 +1317,9 @@ label {
     margin-bottom: 10px;
     text-align: center;
   }
+  .productivity_area .app_download {
+    text-align: center;
+  }
 }
 
 /********* MEDIA 768 A 991 *********/
@@ -1394,6 +1397,9 @@ label {
   }
   .productivity_area h3 {
     margin-bottom: 30px;
+  }
+  .productivity_area .app_download {
+    text-align: center;
   }
 }
 
