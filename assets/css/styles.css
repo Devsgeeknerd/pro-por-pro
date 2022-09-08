@@ -1160,6 +1160,13 @@ label {
   background-repeat: no-repeat;
 }
 
+.productivity_area h3 {
+  font-size: 46px;
+  font-weight: 300;
+  color: #ffffff;
+  line-height: 60px;
+}
+
 /********* MEDIA 767 *********/
 @media (max-width: 767px) {
   .header-area {
