@@ -915,6 +915,14 @@ label {
   background-image: url(assets/images/banner.png);
 }
 
+.slider_bg_2 {
+  background-image: url(assets/images/banner2.png);
+}
+
+.slider_area .single_slider {
+  position: relative;
+}
+
 /********* MEDIA 767 *********/
 @media (max-width: 767px) {
   .header-area {
