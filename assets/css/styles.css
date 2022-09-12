@@ -1156,7 +1156,7 @@ label {
   background-image: url(assets/images/product.png);
   background-size: cover;
   background-position: center center;
-  padding: 164px 0;
+  padding: 164px 0px;
   background-repeat: no-repeat;
 }
 
@@ -1169,6 +1169,10 @@ label {
 
 .productivity_area .app_download {
   text-align: right;
+}
+
+.productivity_area .app_download img {
+  margin-left: 9px;
 }
 
 /********* MEDIA 767 *********/
@@ -1319,6 +1323,9 @@ label {
   }
   .productivity_area .app_download {
     text-align: center;
+  }
+  .productivity_area .app_download img {
+    margin: 5px 0px;
   }
 }
 
