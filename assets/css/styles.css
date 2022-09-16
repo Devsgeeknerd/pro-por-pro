@@ -125,4 +125,14 @@ button {
   position: relative;
 }
 
+.about_me {
+  padding-top: 4.6875rem;
+  padding-bottom: 9.375rem;
+  position: relative;
+}
+
+.align-items-center {
+  align-items: center !important;
+}
+
 /********* RESPONSIVE *********/
