@@ -155,4 +155,10 @@ button {
   cursor: pointer;
 }
 
+.book_btn a:hover {
+  background-color: #ffffff;
+  color: #d465ef;
+  border: 0.0625rem solid #d465ef;
+}
+
 /********* RESPONSIVE *********/
