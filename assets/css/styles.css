@@ -161,4 +161,18 @@ button {
   border: 0.0625rem solid #d465ef;
 }
 
+.book_btn1 a {
+  background-color: #d465ef;
+  color: #ffffff;
+  max-width: 100%;
+  margin: 0rem auto;
+  padding: 0.875rem 2.375rem;
+  border: 0.0625rem solid transparent;
+  border-radius: 2.8125rem;
+  text-align: center;
+  text-transform: capitalize;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
 /********* RESPONSIVE *********/
