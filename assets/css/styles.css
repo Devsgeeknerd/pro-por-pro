@@ -21,6 +21,10 @@ body {
   font-style: normal;
 }
 
+main {
+  display: block;
+}
+
 /********* CLASS *********/
 
 /********* RESPONSIVE *********/
