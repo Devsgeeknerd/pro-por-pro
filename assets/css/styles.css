@@ -67,6 +67,14 @@ li {
   list-style: none;
 }
 
+a {
+  background-color: transparent;
+  color: #1f1f1f;
+  text-decoration: none;
+  transition: 0.3s;
+  outline: medium none;
+}
+
 /********* CLASS *********/
 
 /********* RESPONSIVE *********/
