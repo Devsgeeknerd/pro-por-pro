@@ -63,6 +63,10 @@ ul {
   padding: 0px;
 }
 
+li {
+  list-style: none;
+}
+
 /********* CLASS *********/
 
 /********* RESPONSIVE *********/
