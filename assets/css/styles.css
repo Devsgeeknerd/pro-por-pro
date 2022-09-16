@@ -50,6 +50,14 @@ h3 {
   font-size: 1.5rem;
 }
 
+p {
+  color: #4d4d4d;
+  line-height: 28px;
+  margin-bottom: 14px;
+  font-size: 16px;
+  font-weight: 300;
+}
+
 /********* CLASS *********/
 
 /********* RESPONSIVE *********/
