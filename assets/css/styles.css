@@ -105,4 +105,12 @@ button {
   font-weight: 700;
 }
 
+.about_e_details p {
+  color: #727272;
+  margin-top: 1.25rem;
+  margin-bottom: 2.25rem;
+  font-size: 0.9375rem;
+  font-weight: 400;
+}
+
 /********* RESPONSIVE *********/
