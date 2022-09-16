@@ -181,4 +181,8 @@ button {
   border: 0.0625rem solid #4d65ef;
 }
 
+.box-shadow {
+  box-shadow: 0.1875rem #ccc;
+}
+
 /********* RESPONSIVE *********/
