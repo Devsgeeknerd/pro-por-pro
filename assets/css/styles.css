@@ -89,6 +89,15 @@ strong {
   font-weight: bolder;
 }
 
+button {
+  line-height: 1.5;
+  margin: 0px;
+  font-family: inherit;
+  font-size: 100%;
+  text-transform: none;
+  overflow: visible;
+}
+
 /********* CLASS *********/
 
 /********* RESPONSIVE *********/
