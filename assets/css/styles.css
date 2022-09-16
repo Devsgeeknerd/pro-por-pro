@@ -58,6 +58,11 @@ p {
   font-weight: 300;
 }
 
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
 /********* CLASS *********/
 
 /********* RESPONSIVE *********/
