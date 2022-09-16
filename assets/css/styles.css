@@ -41,6 +41,11 @@ h1 {
   font-family: "Poppins", sans-serif;
 }
 
+h2 {
+  color: #ffffff;
+  font-size: 2rem;
+}
+
 /********* CLASS *********/
 
 /********* RESPONSIVE *********/
