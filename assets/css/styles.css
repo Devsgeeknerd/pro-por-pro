@@ -141,4 +141,18 @@ button {
   align-items: center;
 }
 
+.book_btn a {
+  background-color: #d464ef;
+  color: #ffffff;
+  padding: 0.875rem 2.375rem;
+  border: 0.0625rem solid transparent;
+  border-radius: 2.8125rem;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: capitalize;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
 /********* RESPONSIVE *********/
