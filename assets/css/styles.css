@@ -75,6 +75,20 @@ a {
   outline: medium none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
+a:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+strong {
+  font-size: 1.3em;
+  font-weight: bolder;
+}
+
 /********* CLASS *********/
 
 /********* RESPONSIVE *********/
