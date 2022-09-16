@@ -114,4 +114,15 @@ button {
   position: relative;
 }
 
+.about_title {
+  color: #d1d2d3;
+  top: -3.125rem;
+  left: 32.5rem;
+  line-height: 1;
+  font-size: 4.75rem;
+  font-weight: 800;
+  text-align: center;
+  position: relative;
+}
+
 /********* RESPONSIVE *********/
