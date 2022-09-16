@@ -113,4 +113,8 @@ button {
   font-weight: 400;
 }
 
+.about_img {
+  position: relative;
+}
+
 /********* RESPONSIVE *********/
