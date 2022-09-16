@@ -25,6 +25,16 @@ main {
   display: block;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #001d38;
+  line-height: 1.5em;
+  font-family: "Poppins", sans-serif;
+}
+
 /********* CLASS *********/
 
 /********* RESPONSIVE *********/
