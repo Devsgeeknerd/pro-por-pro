@@ -50,8 +50,8 @@ h3 {
 p {
   color: #4d4d4d;
   line-height: 28px;
-  margin-bottom: 14px;
-  font-size: 16px;
+  margin-bottom: 0.875rem;
+  font-size: 1rem;
   font-weight: 300;
 }
 
@@ -133,6 +133,12 @@ button {
 
 .align-items-center {
   align-items: center !important;
+}
+
+.Appointment {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
 }
 
 /********* RESPONSIVE *********/
