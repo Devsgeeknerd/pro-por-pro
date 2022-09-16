@@ -99,5 +99,10 @@ button {
 }
 
 /********* CLASS *********/
+.about_e_details h3 {
+  color: #001d38;
+  font-size: 3.125rem;
+  font-weight: 700;
+}
 
 /********* RESPONSIVE *********/
