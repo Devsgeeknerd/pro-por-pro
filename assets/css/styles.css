@@ -199,4 +199,10 @@ button {
   cursor: pointer;
 }
 
+.boxed-btn3:hover {
+  background-color: transparent;
+  color: #d465ef;
+  border: 0.0625rem solid #d465ef;
+}
+
 /********* RESPONSIVE *********/
