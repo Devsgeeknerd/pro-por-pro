@@ -1,66 +1,19 @@
-<!-- Title -->
+<!-- Título -->
 # Portfolio
 
-Projeto desenvolvido para testar o conhecimento adquirido durante os cursos. Recursos utilizados com finalidade de aprendizado e estudo.
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- Table of Contents -->
-## Tabela de Conteúdos
-
-* [Vista por cima](#vista-por-cima)
-  * [Foto da tela](#foto-da-tela)
-  <!-- * [Links](#links) -->
-* [Meu processo](#meu-processo)
-  * [Construido com](#construido-com)
-  <!-- * [O que aprendi](#o-que-aprendi) -->
-  <!-- * [Desenvolvimento continuo](#desenvolvimento-continuo) -->
-  <!-- * [Recursos uteis](#recursos-uteis) -->
-* [Autores](#autores)
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
-
-<!-- Overview -->
-## Vista por Cima
-
-<!-- Screenshot -->
-### Foto da Tela
-
-<!-- Links -->
-<!-- ### Links -->
-
-<!-- My Process -->
-## Meu Processo
-
-<!-- Built with -->
-### Construido com
-
-<!-- What I Learned -->
-<!-- ### O que Aprendi -->
-
-<!-- Continued Development -->
-<!-- ### Desenvolvimento Continuo -->
-
-<!-- Useful Resources -->
-<!-- ### Recursos Uteis -->
-
-<!-- Authors -->
-## Autores
-
-<!-- Acknowledgments -->
-<!-- ## Agradecimentos -->
-
-<!-- Information -->
-## Informações
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-por-v1&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-por-pro&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=Fãs&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-por-v1?style=plastic&label=Observadores&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-por-pro?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/pro-por-v1?style=plastic&label=Estrelas&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/pro-por-pro?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/pro-por-v1?style=plastic&label=Bifurcações&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/pro-por-pro?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/pro-por-v1?style=plastic&label=Tamanho&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/pro-por-pro?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/pro-por-v1?style=plastic&label=Licença&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/pro-por-pro?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
